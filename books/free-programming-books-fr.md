@@ -79,6 +79,11 @@
 * [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf) (PDF)
 
 
+#### Orientée objet
+
+* [La programmation orientée objet](https://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BBersini-OO2009%5DLa_programmation_orientee_objet(BookFi_org).pdf) - Hugues Bersini (PDF)
+
+
 #### Pédagogie pour enfants et adolescents
 
 * [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
