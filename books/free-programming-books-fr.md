@@ -224,6 +224,11 @@
 * [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
 
 
+### NoSQL
+
+ * [Les bases de données NoSQL et le Big Data](https://lib1fr.blogspot.com/2019/03/livre-Les-bases-de-donnees-NoSQL-et-le-Big-Data-Comprendre-et-mettre-en-oeuvre-pdf-gratuit.html) - Rudi Bruchez
+
+
 ### Perl
 
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html) - Sylvain Lhullier
